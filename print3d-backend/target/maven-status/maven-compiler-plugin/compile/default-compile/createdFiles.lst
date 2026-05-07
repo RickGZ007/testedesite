@@ -1,0 +1,14 @@
+com\print3d\controller\UploadController.class
+com\print3d\model\Projeto.class
+com\print3d\controller\GlobalExceptionHandler.class
+com\print3d\Print3dApplication.class
+com\print3d\controller\WebConfig.class
+com\print3d\repository\ProjetoRepository.class
+com\print3d\controller\CorController.class
+com\print3d\service\ProjetoService.class
+com\print3d\controller\HealthController.class
+com\print3d\service\UploadService.class
+com\print3d\repository\CorRepository.class
+com\print3d\service\CorService.class
+com\print3d\controller\ProjetoController.class
+com\print3d\model\Cor.class

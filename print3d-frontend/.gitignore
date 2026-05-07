@@ -1,0 +1,47 @@
+# =========================
+# FRONTEND (React/Vite)
+# =========================
+node_modules/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# =========================
+# BACKEND (Spring Boot)
+# =========================
+print3d-backend/target/
+print3d-backend/*.class
+
+# Spring profiles locais
+print3d-backend/application-local.properties
+print3d-backend/application-dev.properties
+
+# Variáveis backend
+print3d-backend/.env
+print3d-backend/.env.*
+
+# =========================
+# IDEs
+# =========================
+.idea/
+.vscode/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# =========================
+# Sistema operacional
+# =========================
+.DS_Store
+Thumbs.db
